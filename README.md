@@ -18,14 +18,15 @@ domains (a in [1, 2, 3], ...), and constraints (a < b, ...).
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/python-constraint-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/python-constraint-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/python-constraint-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/python-constraint-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/python-constraint-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/python-constraint-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/python-constraint-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/python-constraint-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/python-constraint/badges/version.svg)](https://anaconda.org/conda-forge/python-constraint)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/python-constraint/badges/downloads.svg)](https://anaconda.org/conda-forge/python-constraint)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-python--constraint-green.svg)](https://anaconda.org/conda-forge/python-constraint) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/python-constraint.svg)](https://anaconda.org/conda-forge/python-constraint) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/python-constraint.svg)](https://anaconda.org/conda-forge/python-constraint) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/python-constraint.svg)](https://anaconda.org/conda-forge/python-constraint) |
 
 Installing python-constraint
 ============================
