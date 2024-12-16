@@ -34,6 +34,7 @@ about:
   home: http://labix.org/python-constraint
   license: BSD-2-Clause
   license_family: BSD
+  license_file: setup.py
   summary: 'Python module for handling Constraint Solving Problems'
   description: |
     The Python constraint module offers solvers for Constraint Solving Problems
